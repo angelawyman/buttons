@@ -1,2 +1,2 @@
 # buttons
-test page for class on buttons
+this is a test page for a class on buttons
